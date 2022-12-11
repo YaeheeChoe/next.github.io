@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0f229e32.css",
-    "main.js": "./static/js/main.9ed843bc.js",
+    "main.css": "./static/css/main.95095d01.css",
+    "main.js": "./static/js/main.2f1463ed.js",
     "static/js/787.f21457a4.chunk.js": "./static/js/787.f21457a4.chunk.js",
     "static/media/SpoqaHanSansNeo-Regular.otf": "./static/media/SpoqaHanSansNeo-Regular.42d3dd481b467623968a.otf",
     "static/media/uni.png": "./static/media/uni.e9dc298d2915568fc08a.png",
@@ -12,12 +12,12 @@
     "static/media/chart-icon.svg": "./static/media/chart-icon.a756ed8389c2d5a62a4f2b33e7ab5855.svg",
     "index.html": "./index.html",
     "static/media/arrow.svg": "./static/media/arrow.6771a12b37e74cabd299ba0b2ce6bd8e.svg",
-    "main.0f229e32.css.map": "./static/css/main.0f229e32.css.map",
-    "main.9ed843bc.js.map": "./static/js/main.9ed843bc.js.map",
+    "main.95095d01.css.map": "./static/css/main.95095d01.css.map",
+    "main.2f1463ed.js.map": "./static/js/main.2f1463ed.js.map",
     "787.f21457a4.chunk.js.map": "./static/js/787.f21457a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f229e32.css",
-    "static/js/main.9ed843bc.js"
+    "static/css/main.95095d01.css",
+    "static/js/main.2f1463ed.js"
   ]
 }
